@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name: Junkun Liu
+### Junkun Liu
 
 CS + Applied Math at Johns Hopkins (B.S. 2028). I work on whether software and AI can be trusted.
 
